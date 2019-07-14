@@ -1,0 +1,72 @@
+==============================================================
+
+Server started at: 01:30:53 PM on 10/12/2018
+
+Client request received at: 01:31:01 PM on 10/12/2018
+
+Connection successful
+
+Received artist name: paul anka
+
+New client request received at: 01:31:05 PM on 10/12/2018
+
+Received artist name: stevie wonder
+
+Duration for which server was connected to client: 0:00:07.95
+
+==============================================================
+
+Connection unsuccessful
+
+==============================================================
+
+Connection unsuccessful
+
+==============================================================
+
+Connection unsuccessful
+
+==============================================================
+
+Server started at: 01:51:34 PM on 10/12/2018
+
+==============================================================
+
+Connection unsuccessful
+
+==============================================================
+
+Connection unsuccessful
+
+Client request received at: 01:51:39 PM on 10/12/2018
+
+Connection successful
+
+Received artist name: ocean
+
+New client request received at: 01:51:45 PM on 10/12/2018
+
+Received artist name: lobo
+
+New client request received at: 01:53:03 PM on 10/12/2018
+
+Received artist name: rupert holmes
+
+New client request received at: 01:53:19 PM on 10/12/2018
+
+==============================================================
+
+Server started at: 05:14:33 PM on 14/07/2019
+
+Client request received at: 05:14:44 PM on 14/07/2019
+
+Connection successful
+
+Received artist name: ooga
+
+New client request received at: 05:14:59 PM on 14/07/2019
+
+Received artist name: mary macgregor
+
+Duration for which server was connected to client: 0:00:32.38
+

@@ -1,0 +1,32 @@
+=======================================================
+
+Server response received at: 01:31:02 PM on 10/12/2018
+
+Time taken to receive a response from the server for
+the request to get songs for paul anka: 0:00:00.000430
+
+The response length was 43 bytes
+
+Server response received at: 01:31:08 PM on 10/12/2018
+
+Time taken to receive a response from the server for
+the request to get songs for stevie wonder: 0:00:00
+
+The response length was 48 bytes
+
+=======================================================
+
+Server response received at: 05:14:56 PM on 14/07/2019
+
+Time taken to receive a response from the server for
+the request to get songs for Ooga: 0:00:00
+
+The response length was 76 bytes
+
+Server response received at: 05:15:09 PM on 14/07/2019
+
+Time taken to receive a response from the server for
+the request to get songs for mary macgregor: 0:00:00
+
+The response length was 23 bytes
+
